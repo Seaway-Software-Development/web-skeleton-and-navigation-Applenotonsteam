@@ -5,13 +5,31 @@ body, header, h1, h2, div, header, footer, li{
 }
 
 header{
-    color: #0D3B66
+    color: #0D3B66;
+    height: 800px;
 }
 
 body{
-    color: #FAF0CA
+    color: #FAF0CA;
 }
 
 h1{
-    color: #F4D35E
+    color: #F4D35E;
+}
+
+section{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    
+}
+p{
+    size: 2.5em;
+    color: #F4D35E;
+}
+
+footer{
+    color: #0D3B66;
+    height: 800px;
 }
