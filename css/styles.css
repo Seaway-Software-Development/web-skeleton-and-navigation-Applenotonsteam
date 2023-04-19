@@ -33,3 +33,9 @@ footer{
     color: #0D3B66;
     height: 800px;
 }
+
+img{
+    min-height: 50px;
+}
+@-ms-viewport{ 
+    width: device-width; }
