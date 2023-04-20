@@ -22,11 +22,12 @@ section{
     padding-right: 20%;
     padding-top: 150px;
     padding-bottom: 150px;
+    color: #FAF0CA;
+    color: #F4D35E;
     
 }
 p{
     size: 2.5em;
-    color: #F4D35E;
 }
 
 footer{
